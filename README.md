@@ -12,4 +12,4 @@
 说明：
 本资料整理自公开网络环境，仅供查询。
 
-v
+Site notes: https://mariauupse.github.io/tv-series-layout-analysis/
